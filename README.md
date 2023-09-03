@@ -1,2 +1,2 @@
 # VertiGoose
-Mobile game demo/prot.
+Subway surfers-like Mobile game demo/prot.
